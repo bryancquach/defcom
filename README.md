@@ -4,7 +4,7 @@ This respository includes the source code for the DeFCoM supervised ML genomic f
 
 > Quach, B., & Furey, T. S. (2017). DeFCoM: analysis and modeling of transcription factor binding sites using a motif-centric genomic footprinter. Bioinformatics, 33(7), 956-963.
 
-_Note:_ This framework has not been maintained since 2017 and was written in Python 2.7. Please reach out if you are interested in collaborations to refactor the codebase.
+_Note:_ This framework has not been maintained since 2017 and was written in Python 2.7. Please reach out if you are interested in collaborations to refactor the codebase. The `manuscript` branch includes source files that correspond to the [manuscript version](https://doi.org/10.1093/bioinformatics/btw740) of the tool.
 
 ## Documentation
 
